@@ -1,0 +1,8 @@
+C:\Users\Gigantoherceg\source\repos\WeabApp\Sample MVCWebApp\SampleMVCWebApp\obj\Debug\net7.0\Sample MVCWebApp.csproj.AssemblyReference.cache
+C:\Users\Gigantoherceg\source\repos\WeabApp\Sample MVCWebApp\SampleMVCWebApp\obj\Debug\net7.0\Sample MVCWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gigantoherceg\source\repos\WeabApp\Sample MVCWebApp\SampleMVCWebApp\obj\Debug\net7.0\Sample MVCWebApp.AssemblyInfoInputs.cache
+C:\Users\Gigantoherceg\source\repos\WeabApp\Sample MVCWebApp\SampleMVCWebApp\obj\Debug\net7.0\Sample MVCWebApp.AssemblyInfo.cs
+C:\Users\Gigantoherceg\source\repos\WeabApp\Sample MVCWebApp\SampleMVCWebApp\obj\Debug\net7.0\Sample MVCWebApp.csproj.CoreCompileInputs.cache
+C:\Users\Gigantoherceg\source\repos\WeabApp\Sample MVCWebApp\SampleMVCWebApp\obj\Debug\net7.0\Sample MVCWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gigantoherceg\source\repos\WeabApp\Sample MVCWebApp\SampleMVCWebApp\obj\Debug\net7.0\Sample MVCWebApp.RazorAssemblyInfo.cache
+C:\Users\Gigantoherceg\source\repos\WeabApp\Sample MVCWebApp\SampleMVCWebApp\obj\Debug\net7.0\Sample MVCWebApp.RazorAssemblyInfo.cs
